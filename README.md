@@ -376,14 +376,6 @@ GET /api/songs?genre=Pop&search=love&page=1&limit=10
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
-
----
-
-<div align="center">
-
-Built with ❤️ using Node.js & Express
 
 </div>
